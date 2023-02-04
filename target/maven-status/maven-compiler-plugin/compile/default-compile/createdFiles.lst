@@ -1,0 +1,12 @@
+com/league/view/processor/model/IInputModel.class
+com/league/controller/LeagueManager.class
+com/league/view/IView.class
+com/league/model/SoccerTeam.class
+com/league/view/LeagueView.class
+com/league/exceptions/MalformedStringMatch.class
+com/league/view/processor/InputProcessor.class
+com/league/controller/IManager.class
+com/league/view/processor/IInputProcessor.class
+com/league/view/processor/model/InputModel.class
+com/league/model/ITeam.class
+com/league/MainLeague.class

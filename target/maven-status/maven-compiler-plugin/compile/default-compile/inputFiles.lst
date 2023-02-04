@@ -1,0 +1,12 @@
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/model/SoccerTeam.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/view/processor/IInputProcessor.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/view/processor/model/InputModel.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/view/LeagueView.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/controller/LeagueManager.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/model/ITeam.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/controller/IManager.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/view/IView.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/view/processor/InputProcessor.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/exceptions/MalformedStringMatch.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/view/processor/model/IInputModel.java
+/Users/martincarranza/Documents/Intellij/LeagueRanking/src/main/java/com/league/MainLeague.java
